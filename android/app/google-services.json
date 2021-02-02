@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "386581032030",
+    "project_id": "flash-chat-aa01e",
+    "storage_bucket": "flash-chat-aa01e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386581032030:android:dfa815370f7a6e24ca18cf",
+        "android_client_info": {
+          "package_name": "thaiduc.com.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386581032030-kqocgpftallmk0v2tivtij6qt77j4dsh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkrcvVkw-2P_YVF2soBN8D9iCep6qVPTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386581032030-kqocgpftallmk0v2tivtij6qt77j4dsh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
